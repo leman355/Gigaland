@@ -414,10 +414,6 @@
   color: white;
 }
 
-.zzz {
-  margin-top: 200px;
-}
-
 @media (max-width: 576px) {
   .header {
     background-color: black;
